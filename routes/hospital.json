@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "Hospital Name": "SPM Hospital",
+    "Patient Count": 325,
+    "Location": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "Hospital Name": "GV Hospital",
+    "Patient Count": 345,
+    "Location": "Thrissur"
+  },
+  {
+    "id": 4,
+    "Hospital Name": "Punarjani Hospital",
+    "Patient Count": 255,
+    "Location": "Malappuram"
+  },
+  {
+    "0": {
+      "id": 5,
+      "Hospital Name": "BQ Hospital",
+      "Patient Count": 231,
+      "Location": "Idukki"
+    },
+    "id": 5,
+    "Hospital Name": "RVM Hospital",
+    "Patient Count": 445,
+    "Location": "Kollam"
+  },
+  [
+    {
+      "id": 6,
+      "Hospital Name": "City Hospital",
+      "Patient Count": 237,
+      "Location": "Kochi"
+    }
+  ]
+]
